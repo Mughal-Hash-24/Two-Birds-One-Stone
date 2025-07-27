@@ -80,10 +80,10 @@ This game was my answer.
 
 ## ▶️ How to Run
 1. Install **Pygame**:
-   ```bash
-   pip install pygame
-   ```
-2. Clone this repository:
+  ```bash
+  pip install pygame
+  ```
+3. Clone this repository:
 
   ```bash
   git clone https://github.com/YourUsername/Two-Birds-One-Stone.git
