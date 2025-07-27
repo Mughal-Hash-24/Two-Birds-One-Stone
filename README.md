@@ -82,3 +82,13 @@ This game was my answer.
 1. Install **Pygame**:
    ```bash
    pip install pygame
+2. Clone this repository:
+
+  ```bash
+  git clone https://github.com/YourUsername/Two-Birds-One-Stone.git
+  cd Two-Birds-One-Stone
+
+3. Run the game:
+
+  ```bash
+  python main.py
